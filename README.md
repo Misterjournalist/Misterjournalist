@@ -7,6 +7,10 @@
 (_) (_)(_/\_)`\____)`\___x___/'`\____)(___)(___)
                                                 
                                                 
- </pre>
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=jamachu)](https://www.last.fm/user/Jamachu) <br>
-hi wip have some widgets
+ </pre> <br>
+
+[if you're from pony town, click here!]()
+
+
+ 
+[![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/jamachu/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)
