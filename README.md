@@ -9,7 +9,7 @@
                                                 
  </pre> <br>
 
-[if you're from pony town, click here!]()
+[if you're from pony town, click here!](https://fluffle.cc/janarisuto)
 
 
  
